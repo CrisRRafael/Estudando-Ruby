@@ -13,4 +13,13 @@ Kind.create!([{description: 'Amigo'},
 {description: 'Família'},
 {description: 'Comercial'}])
 
-puts "Gerando os tipos de contatos.... OK"
+
+
+
+
+
+
+
+
+
+
